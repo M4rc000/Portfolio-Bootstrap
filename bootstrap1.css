@@ -1,0 +1,44 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #54e346;
+}
+
+body {
+  min-height: 2000px;
+}
+
+.jumbotron img {
+  margin-top: 25px;
+}
+
+#projects {
+  background-color: #ffe459;
+}
+
+#contact {
+  background-color: rgb(255, 255, 255);
+}
+
+section {
+  padding-top: 5rem;
+}
+
+section #contact {
+  padding-top: 7rem;
+}
+
+footer h5 a {
+  margin-right: 1rem;
+}
+
+#github {
+  color: black;
+}
+
+#facebook {
+  color: white;
+}
+
+#instagram {
+  color: rgb(131, 58, 180);
+}
